@@ -30,11 +30,11 @@ This skill it's like the "backbone" of hacking, you can learn this skill in cour
 
 
 # References 
-### [1] (https://en.wikipedia.org/wiki/Hacker)
-### [2] (http://www.catb.org/esr/faqs/hacker-howto.html)
-### [3] (https://www.comptia.org/certifications/a)
-### [4] (https://www.coursera.org/professional-certificates/google-it-support)
-### [5] (https://youtu.be/As6g6IXcVa4)
+#### [1] (https://en.wikipedia.org/wiki/Hacker)
+#### [2] (http://www.catb.org/esr/faqs/hacker-howto.html)
+#### [3] (https://www.comptia.org/certifications/a)
+#### [4] (https://www.coursera.org/professional-certificates/google-it-support)
+#### [5] (https://youtu.be/As6g6IXcVa4)
 # License 
 
-This repository is under [MIT license](./LICENSE)..
+This repository is under [MIT license](./LICENSE).
