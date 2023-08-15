@@ -9,7 +9,7 @@ My "why" of this repository is to help people to achieve their goal of become in
 
 Remember your "why" and you going to achieve whatever you want!
 
-# How to start
+# Hacking skills
 
 ## Fundamentals
 First of all, how do you hack something you don't understand? After this question is evident, you have to know the fundamentals of IT, but how?
