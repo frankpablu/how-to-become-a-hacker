@@ -32,7 +32,7 @@ It's no secret that this is one of the most important skills for a hacker, so he
 
 But if you want a course for the basics, I recommend these resources:
 
-1. NDG Linux Unhatched by Cisco Netacad[[6]](#6-httpswwwnetacadcomcoursesos-itndg-linux-unhatched)
+1. NDG Linux Unhatched by Cisco Netacad [[6]](#6-httpswwwnetacadcomcoursesos-itndg-linux-unhatched)
 
 
 # References 
