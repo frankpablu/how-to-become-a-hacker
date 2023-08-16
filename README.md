@@ -26,7 +26,13 @@ No matter how you learn that, you don't have to gain the "certificate" but knowl
 This skill it's like the "backbone" of hacking, you can learn this skill in courses like:
 1. Professor Messer Free Network+ Course [[5]](#5-httpsyoutubeas6g6ixcva4)
 
+## Linux Skills
 
+It's no secret that this is one of the most important skills for a hacker, so here are some resources to learn it, although to be honest, I don't recommend you to do a certification, you can learn all this by downloading ubuntu and getting curious.
+
+But if you want a course for the basics, I recommend these resources:
+
+1. NDG Linux Unhatched by Cisco Netacad[[6]](#6-httpswwwnetacadcomcoursesos-itndg-linux-unhatched)
 
 
 # References 
@@ -35,6 +41,7 @@ This skill it's like the "backbone" of hacking, you can learn this skill in cour
 #### [3] (https://www.comptia.org/certifications/a)
 #### [4] (https://www.coursera.org/professional-certificates/google-it-support)
 #### [5] (https://youtu.be/As6g6IXcVa4)
+#### [6] (https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
 # License 
 
 This repository is under [MIT license](./LICENSE).
