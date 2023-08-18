@@ -50,6 +50,12 @@ But if you want a course for the basics, I recommend these resources:
 #### [6] (https://www.coursera.org/professional-certificates/google-it-support)
 #### [7] (https://youtu.be/As6g6IXcVa4)
 #### [8] (https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
+
+## Contact
+Feel free to connect, collaborate, or ask questions:
+- LinkedIn: [Frank Pablú](https://www.linkedin.com/in/frankpablu/)
+- Email: franklinspablu@gmail.com
+
 # License 
 
 This repository is under [MIT license](./LICENSE).
