@@ -59,3 +59,5 @@ Feel free to connect, collaborate, or ask questions:
 # License 
 
 This repository is under [MIT license](./LICENSE).
+
+Be curious and investigate, and sooner or later you'll be deep down the rabbit hole.
