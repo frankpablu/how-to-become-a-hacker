@@ -12,9 +12,9 @@ Remember your "why" and you going to achieve whatever you want!
 # Required lectures
 I strongly recommend you to read this to understand what it is to be a hacker.
 
-A HACKER MANIFESTO [[3]](#3-httpsubsolc3husubsol_2contributors0warktexthtml)
-How To Become A Hacker [[2]](#2-httpwwwcatborgesrfaqshacker-howtohtml)
-How To Learn Hacking [[4]](#4-httpwwwcatborgesrfaqshacking-howtohtmlidm45418026495008)
+#### A HACKER MANIFESTO [[3]](#3-httpsubsolc3husubsol_2contributors0warktexthtml)
+#### How To Become A Hacker [[2]](#2-httpwwwcatborgesrfaqshacker-howtohtml)
+#### How To Learn Hacking [[4]](#4-httpwwwcatborgesrfaqshacking-howtohtmlidm45418026495008)
 
 # Hacking skills
 
