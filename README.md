@@ -45,6 +45,11 @@ If you wanna be a real hacker a modify the programs to your needs, this skill is
 
 1. Python Essentials 1 [[9]](#9-httpsskillsforallcomcoursepython-essentials-1courselangen-us)
 
+# Security Concepts
+Learn about the CIA triad (Confidentiality, Integrity, Availability), the principle of least privilege and all the fundamental knowledge of cybersecurity
+
+1. Professor Messer Free Security+ Course [[10]](#10-httpsyoutube9ne33fpquw8si3cm0m0kabtilpubr)
+
 
 # References 
 #### [1] (https://en.wikipedia.org/wiki/Hacker)
@@ -57,6 +62,7 @@ If you wanna be a real hacker a modify the programs to your needs, this skill is
 #### [8] (https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
 #### [9] (https://skillsforall.com/course/python-essentials-1?courseLang=en-US)
 
+#### [10] (https://youtu.be/9NE33fpQuw8?si=3cM0m0kaBTilpUBr)
 ## Contact
 Feel free to connect, collaborate, or ask questions:
 - LinkedIn: [Frank Pablú](https://www.linkedin.com/in/frankpablu/)
