@@ -4,7 +4,7 @@ Welcome to the "How to Become a Hacker" repository! This comprehensive guide is 
 # What is a hacker?
 A hacker is a person skilled in information technology who uses their technical knowledge to achieve a goal or overcome an obstacle, within a computerized system by non-standard means.[[1]](#1-httpsenwikipediaorgwikihacker)
 
-# Why ?
+# Why?
 My "why" of this repository is to help people to achieve their goal of become in a Hacker, the name of this repository is based on the webpage of Eric S. Raymond "How to Become a Hacker". [[2]](#2-httpwwwcatborgesrfaqshacker-howtohtml)
 
 Remember your "why" and you going to achieve whatever you want!
