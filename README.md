@@ -40,12 +40,12 @@ But if you want a course for the basics, I recommend these resources:
 
 1. NDG Linux Unhatched by Cisco Netacad [[8]](#8-httpswwwnetacadcomcoursesos-itndg-linux-unhatched)
 
-# Programming Skills
+## Programming Skills
 If you wanna be a real hacker a modify the programs to your needs, this skill is a must, you will need to learn scripting, and it is advisable to start with python.
 
 1. Python Essentials 1 [[9]](#9-httpsskillsforallcomcoursepython-essentials-1courselangen-us)
 
-# Security Concepts
+## Security Concepts
 Learn about the CIA triad (Confidentiality, Integrity, Availability), the principle of least privilege and all the fundamental knowledge of cybersecurity
 
 1. Professor Messer Free Security+ Course [[10]](#10-httpsyoutube9ne33fpquw8si3cm0m0kabtilpubr)
