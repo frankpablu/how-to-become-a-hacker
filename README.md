@@ -50,6 +50,13 @@ Learn about the CIA triad (Confidentiality, Integrity, Availability), the princi
 
 1. Professor Messer Free Security+ Course [[10]](#10-httpsyoutube9ne33fpquw8si3cm0m0kabtilpubr)
 
+# Roadmaps
+
+1. Cyber Security Expert by roadmap.sh [[11]](#11-httpsroadmapshcyber-security)
+2. Hacker Roadmap by sundowndev [[12]](#12-httpsgithubcomsundowndevhacker-roadmap)
+
+
+
 
 # References 
 #### [1] (https://en.wikipedia.org/wiki/Hacker)
@@ -62,6 +69,8 @@ Learn about the CIA triad (Confidentiality, Integrity, Availability), the princi
 #### [8] (https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
 #### [9] (https://skillsforall.com/course/python-essentials-1?courseLang=en-US)
 #### [10] (https://youtu.be/9NE33fpQuw8?si=3cM0m0kaBTilpUBr)
+#### [11] (https://roadmap.sh/cyber-security)
+#### [12] (https://github.com/sundowndev/hacker-roadmap)
 ## Contact
 Feel free to connect, collaborate, or ask questions:
 - LinkedIn: [Frank Pablú](https://www.linkedin.com/in/frankpablu/)
