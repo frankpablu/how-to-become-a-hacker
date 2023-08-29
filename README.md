@@ -60,7 +60,9 @@ Learn about the CIA triad (Confidentiality, Integrity, Availability), the princi
 1. Think Creatively: There is ALWAYS a way to hack a system and many ways to accomplish it. A good hacker can think creatively of multiple approaches to the same hack. [[13]](#13-httpswwwhackers-arisecompost20160811essentials-skills-of-a-professional-hacker)
 2. Problem-Solving Skills: A hacker is always coming up against seemingly unsolvable problems. This requires that the hacker be accustomed to thinking analytically and solving problems. This often demands that the hacker diagnose accurately what is wrong and then break the problem down into separate components. This is one of those abilities that comes with many hours of practice. [[13]](#13-httpswwwhackers-arisecompost20160811essentials-skills-of-a-professional-hacker)
 3. Persistence: A hacker must be persistent. If you fail at first, try again. If that fails, come up with a new approach and try again. It is only with a persistence that you will be able to hack the most secured systems. [[13]](#13-httpswwwhackers-arisecompost20160811essentials-skills-of-a-professional-hacker) 
-
+# How to get started?
+I recommend you start with an introductory course on cybersecurity for example "Introduction to Cybersecurity" from Cisco or any introductory course on platforms like coursera or even youtube, then learn about networks, from protocols to intermediate knowledge, then learn security concepts as such with certifications like Security+ or Certified in Cybersecurity from ISC2, learn scripting languages like python, get into sites like HackTheBox, TryHackMe and PicoCTF, do certifications like eJPT to lay the foundation, and later do the OSCP.
+Some of the certifications are not necessary to have but the knowledge.
 
 
 
