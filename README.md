@@ -64,11 +64,11 @@ Learn about the CIA triad (Confidentiality, Integrity, Availability), the princi
 I recommend you start with an introductory course on cybersecurity for example "Introduction to Cybersecurity" from Cisco or any introductory course on platforms like coursera or even youtube, then learn about networks, from protocols to intermediate knowledge, then learn security concepts as such with certifications like Security+ or Certified in Cybersecurity from ISC2, learn scripting languages like python, get into sites like HackTheBox, TryHackMe and PicoCTF, do certifications like eJPT to lay the foundation, and later do the OSCP.
 Some of the certifications are not necessary to have but the knowledge.
 
-
-
-
-
-
+# Challenges
+1. HackTheBox [[14]](#14-httpswwwhacktheboxcom) 
+2. TryHackMe [[15]](#15-httpstryhackmecom)
+3. PicoCTF [[16]](#16-httpspicoctforg)
+4. OverTheWire [[17]](#17-httpsoverthewireorgwargames)
 # References 
 #### [1] (https://en.wikipedia.org/wiki/Hacker)
 #### [2] (http://www.catb.org/esr/faqs/hacker-howto.html)
@@ -83,6 +83,10 @@ Some of the certifications are not necessary to have but the knowledge.
 #### [11] (https://roadmap.sh/cyber-security)
 #### [12] (https://github.com/sundowndev/hacker-roadmap)
 #### [13] (https://www.hackers-arise.com/post/2016/08/11/Essentials-Skills-of-a-Professional-Hacker)
+#### [14] (https://www.hackthebox.com/)
+#### [15] (https://tryhackme.com/)
+#### [16] (https://picoctf.org/)
+#### [17] (https://overthewire.org/wargames)
 ## Contact
 Feel free to connect, collaborate, or ask questions:
 - LinkedIn: [Frank Pablú](https://www.linkedin.com/in/frankpablu/)
